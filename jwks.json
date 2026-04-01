@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "e": "AQAB",
+      "kid": "rxtrinity-ecw-key-1",
+      "kty": "RSA",
+      "n": "mGLuxg3sJ_u7iO6-tHO0sL9IcRXeQwojJAf6V0j5pi72MwUle6JaFXJZPvShSAyttFjhMuE9KxUWhMuXg3GOZonV8Pf-hPYoqib_EctU6Z5iKpCxKTsurpXbkt3Rnqbp4zSZ9AsTEexVksgaTUqZs-N_T2vArTeXDnknmBWlkHcXpFVkCR-Ut13AEWERB3s-VETNJIAUj8ujeIJWKTWzBay2E7aqzZE2G0EW_LkPHodibVlRjeQO7YFlq051LWy4a7iKc8nCOrI3gXBtWvLkkCMexwf7I7czqJOPa5SsVZJJE5hvvtfrngUEpRrf74ezHwopgk6iDBf6JSVpMYYJ9Q",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
